@@ -40,8 +40,8 @@
 <h3>1. Requisitos Funcionais</h3>
 <br>
 <h4>Cadastro de Produtos</h4>
-- O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.
-- Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.
+<p>- O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.</p>
+<p>- Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.</p>
 <br>
 Cadastro de Clientes
 - Deve ser possível registrar os clientes da farmácia, com informações como:
