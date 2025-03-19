@@ -28,7 +28,7 @@
 # Autores
 
 * Gustavo Braz Frainer - RA: 10386596
-* Melissa Rodrigues
+* Melissa Rodrigues - RA: 10726749
 * Pedro Oficiati - RA: 10723732
 
 
