@@ -37,8 +37,7 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-1. Requisitos Funcionai
-
+<h4>1. Requisitos Funcionais</h4>
 
 Cadastro de Produtos
 - O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.
@@ -75,8 +74,7 @@ Acesso ao Sistema
 - - Administradores: podem cadastrar produtos, ver relatórios e gerenciar estoque.
 
 
-*2. Requisitos Não-Funcionais*
-
+2. Requisitos Não-Funcionais
 
 Fácil de Usar
 - A interface deve ser simples e intuitiva, para que qualquer pessoa consiga usar sem dificuldades.
