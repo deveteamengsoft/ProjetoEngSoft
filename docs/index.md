@@ -27,14 +27,9 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Gustavo Braz Frainer - RA: 10386596
+* Melissa Rodrigues
+* Pedro Oficiati - RA: 10723732
 
 
 # Descrição do Projeto
@@ -42,7 +37,55 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+1. Funcionalidades do Sistema
+Cadastro de Produtos
+- O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.
+- Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.
+Cadastro de Clientes
+- Deve ser possível registrar os clientes da farmácia, com informações como:
+- - Nome
+- - CPF
+- - Telefone
+- - Histórico de compras
+Vendas
+- O atendente precisa conseguir pesquisar se o medicamento está disponível no estoque.
+- O sistema deve permitir registrar uma venda, vinculando-a ao cliente.
+- Assim que a venda for finalizada, o sistema deve gerar um cupom fiscal.
+- O estoque precisa ser atualizado automaticamente.
+Controle de Estoque
+- Sempre que um produto for vendido, o sistema deve diminuir a quantidade disponível.
+- Caso o estoque de um produto esteja baixo, o sistema precisa avisar.
+- O administrador deve conseguir visualizar os produtos disponíveis e seus status.
+Relatórios
+- O sistema deve gerar relatórios para ajudar na gestão da farmácia, como:
+- - Vendas feitas no dia, na semana e no mês.
+- - Lista dos produtos mais vendidos.
+- - Clientes que compram com mais frequência.
+Acesso ao Sistema
+- O sistema deve ter login para garantir que só pessoas autorizadas possam usá-lo.
+- Deve haver dois tipos de usuários:
+- - Atendentes: podem fazer vendas e consultar produtos.
+- - Administradores: podem cadastrar produtos, ver relatórios e gerenciar estoque.
+2. Outras Características do Sistema
+Fácil de Usar
+- A interface deve ser simples e intuitiva, para que qualquer pessoa consiga usar sem dificuldades.
+- Deve funcionar bem tanto no computador quanto no celular.
+Segurança
+- Os dados dos clientes e vendas devem ser protegidos.
+- Apenas usuários com login e senha devem ter acesso ao sistema.
+- Atendentes e administradores terão permissões diferentes para evitar alterações indevidas.
+Rápido e Eficiente
+- O sistema deve responder rápido às buscas e consultas, sem travar.
+- As vendas e atualizações de estoque devem acontecer na hora, sem atrasos.
+Acessível para Todos
+- O sistema deve funcionar bem em diferentes dispositivos e tamanhos de tela.
+- Deve seguir padrões básicos de acessibilidade para que qualquer pessoa possa utilizá-lo.
+Preparado para Crescer
+- O sistema deve ser capaz de armazenar mais produtos e clientes conforme a farmácia cresce.
+- No futuro, deve permitir novas funções, como vendas online.
+Confiável e Seguro
+- O sistema precisa estar disponível sempre que for necessário, sem falhas.
+- Deve ter um sistema de backup automático para evitar perda de informações importantes.
 
 # Diagrama de Atividades
 
