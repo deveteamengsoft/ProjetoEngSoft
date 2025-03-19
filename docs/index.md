@@ -43,18 +43,18 @@
 <p>- O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.</p>
 <p>- Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.</p>
 <br>
-Cadastro de Clientes
-- Deve ser possível registrar os clientes da farmácia, com informações como:
-- - Nome
-- - CPF
-- - Telefone
-- - Histórico de compras
+<h4>Cadastro de Clientes</h4>
+<p>- Deve ser possível registrar os clientes da farmácia, com informações como:</p>
+<p>- - Nome</p>
+<p>- - CPF</p>
+<p>- - Telefone</p>
+<p>- - Histórico de compras</p>
 <br>
-Vendas
-- O atendente precisa conseguir pesquisar se o medicamento está disponível no estoque.
-- O sistema deve permitir registrar uma venda, vinculando-a ao cliente.
-- Assim que a venda for finalizada, o sistema deve gerar um cupom fiscal.
-- O estoque precisa ser atualizado automaticamente.
+<h4>Vendas</h4>
+<p>- O atendente precisa conseguir pesquisar se o medicamento está disponível no estoque.</p>
+<p>- O sistema deve permitir registrar uma venda, vinculando-a ao cliente.</p>
+<p>- Assim que a venda for finalizada, o sistema deve gerar um cupom fiscal.</p>
+<p>- O estoque precisa ser atualizado automaticamente.</p>
 <br>
 Controle de Estoque
 - Sempre que um produto for vendido, o sistema deve diminuir a quantidade disponível.
