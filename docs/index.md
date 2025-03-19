@@ -99,7 +99,7 @@
 <h4>Confiável e Seguro</h4>
 <p>- O sistema precisa estar disponível sempre que for necessário, sem falhas.</p>
 <p>- Deve ter um sistema de backup automático para evitar perda de informações importantes.</p>
-
+<br>
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
