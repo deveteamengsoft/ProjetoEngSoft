@@ -30,7 +30,7 @@ na cidade de Santos-SP. Nos últimos meses, houve o crescimento da
 clientela e à necessidade de maior controle sobre seus processos
 internos, sendo assim, o proprietário, Sr. Boticário, decidiu modernizar
 a farmácia e implementar um sistema informatizado para gestão de vendas,
-estoque e clientes.
+estoque e clientes. <br>
 Atualmente, a farmácia opera de forma manual, registrando pedidos em
 cadernos e utilizando planilhas para controlar o estoque. Isto tem
 causado problemas como erros no controle de medicamentos, falta de
