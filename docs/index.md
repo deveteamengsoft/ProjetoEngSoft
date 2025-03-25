@@ -51,7 +51,7 @@ Solutions SW - para criar um sistema que otimize a operação da farmácia.
 Ele espera um sistema simples e eficiente que facilite as operações
 diárias dos funcionários, garantindo maior precisão e rapidez no
 atendimento.</p>
-<br>
+
 # Análise de Requisitos Funcionais e Não-Funcionais
 <h3>1. Requisitos Funcionais</h3>
 <br>
