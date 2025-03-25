@@ -34,21 +34,23 @@
 
 # Descrição do Projeto
 
-*&lt;A Farmácia Vida Saudável é um estabelecimento de pequeno porte localizado
+<p>A Farmácia Vida Saudável é um estabelecimento de pequeno porte localizado
 na cidade de Santos-SP. Nos últimos meses, houve o crescimento da
 clientela e à necessidade de maior controle sobre seus processos
 internos, sendo assim, o proprietário, Sr. Boticário, decidiu modernizar
 a farmácia e implementar um sistema informatizado para gestão de vendas,
-estoque e clientes.
-Atualmente, a farmácia opera de forma manual, registrando pedidos em
+estoque e clientes.</p>
+<br>
+<p>Atualmente, a farmácia opera de forma manual, registrando pedidos em
 cadernos e utilizando planilhas para controlar o estoque. Isto tem
 causado problemas como erros no controle de medicamentos, falta de
-registro de clientes e dificuldades na gestão financeira.
-O Sr. Boticário contratou a nossa empresa de desenvolvimento - MACK
+registro de clientes e dificuldades na gestão financeira.</p>
+<br>
+<p>O Sr. Boticário contratou a nossa empresa de desenvolvimento - MACK
 Solutions SW - para criar um sistema que otimize a operação da farmácia.
 Ele espera um sistema simples e eficiente que facilite as operações
 diárias dos funcionários, garantindo maior precisão e rapidez no
-atendimento. &gt;*
+atendimento.</p>
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 <h3>1. Requisitos Funcionais</h3>
