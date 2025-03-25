@@ -118,7 +118,136 @@ atendimento.</p>
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Página-1" id="EUnatXKg4UHT1Jn5ySwY">
+    <mxGraphModel dx="1750" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OsXEs1ndok8c7S23XYz--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--4" target="OsXEs1ndok8c7S23XYz--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--4" value="INÍCIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--5" target="OsXEs1ndok8c7S23XYz--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--5" value="CLIENTE CHEGA Á FARMACIA&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="287" y="80" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--6" target="OsXEs1ndok8c7S23XYz--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--6" value="SOLICITA O MEDICAMENTO&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="287" y="150" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--7" target="OsXEs1ndok8c7S23XYz--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--7" value="ATENDENTE PESQUISA NO SISTEMA&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="287" y="220" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--8" target="OsXEs1ndok8c7S23XYz--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--8" target="OsXEs1ndok8c7S23XYz--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--8" value="PRODUTO DISPONIVEL?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="284" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--11" value="INFORMA INDISPONIBILIDADE AO CLIENTE&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="256" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--12" target="OsXEs1ndok8c7S23XYz--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--12" value="REGISTRA VENDA ASSOCIADA AO CPF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--15" target="OsXEs1ndok8c7S23XYz--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--15" target="OsXEs1ndok8c7S23XYz--43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="500.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--15" value="SISTEMA ATUALIZA O ESTOQUE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--16" target="OsXEs1ndok8c7S23XYz--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--16" value="GERA CUPOM FISCAL&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="585" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--17" target="OsXEs1ndok8c7S23XYz--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--17" value="CLIENTE REALIZA PAGAMENTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--19" target="OsXEs1ndok8c7S23XYz--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="790" />
+              <mxPoint x="360" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--19" value="CLIENTE RECEBE PRODUTO&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="740" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--20" value="FIM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="830" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--35" target="OsXEs1ndok8c7S23XYz--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--35" value="ADIMINISTRADOR ACESSA O SISTEMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="650" width="256" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--36" target="OsXEs1ndok8c7S23XYz--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="790" />
+              <mxPoint x="360" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--36" value="GERA RELATORIOS DE VENDAS E ESTOQUE&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="720" width="256" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--39" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--40" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--43" target="OsXEs1ndok8c7S23XYz--45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsXEs1ndok8c7S23XYz--43" target="OsXEs1ndok8c7S23XYz--35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--43" value="ALERTA ESTOQUE BAIXO?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="336" y="480" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--45" value="ADIMINISTRADOR ATUALIZA O ESTOQUE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="534" y="585" width="256" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--46" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="596" y="540" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OsXEs1ndok8c7S23XYz--47" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="555" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
 
 # Diagrama de Casos de Uso
 
