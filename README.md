@@ -25,7 +25,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Descrição
 
-*A Farmácia Vida Saudável é um estabelecimento de pequeno porte localizado
+A Farmácia Vida Saudável é um estabelecimento de pequeno porte localizado
 na cidade de Santos-SP. Nos últimos meses, houve o crescimento da
 clientela e à necessidade de maior controle sobre seus processos
 internos, sendo assim, o proprietário, Sr. Boticário, decidiu modernizar
@@ -34,12 +34,12 @@ estoque e clientes. <br>
 Atualmente, a farmácia opera de forma manual, registrando pedidos em
 cadernos e utilizando planilhas para controlar o estoque. Isto tem
 causado problemas como erros no controle de medicamentos, falta de
-registro de clientes e dificuldades na gestão financeira.
+registro de clientes e dificuldades na gestão financeira. <br>
 O Sr. Boticário contratou a nossa empresa de desenvolvimento - MACK
 Solutions SW - para criar um sistema que otimize a operação da farmácia.
 Ele espera um sistema simples e eficiente que facilite as operações
 diárias dos funcionários, garantindo maior precisão e rapidez no
-atendimento. *
+atendimento.
 
 # Documentação
 
