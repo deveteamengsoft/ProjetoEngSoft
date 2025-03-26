@@ -146,7 +146,7 @@ atendimento.</p>
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama de caso de uso](https://github.com/user-attachments/assets/ec586635-1951-48dd-a874-5a70a99fd7ca)
 
 # Descrição dos Casos de Uso
 
