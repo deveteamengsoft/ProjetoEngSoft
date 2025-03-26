@@ -62,7 +62,7 @@ atendimento.</p>
 </ul>
 <br>
 <h4>Cadastro de Clientes</h4>
-<h5>Deve ser possível registrar os clientes da farmácia, com informações como:</h5
+<h5>Deve ser possível registrar os clientes da farmácia, com informações como:</h5>
 <ul>
   <li>Nome</li>
   <li>CPF</li>
