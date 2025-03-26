@@ -58,9 +58,8 @@ atendimento.</p>
 <h4>Cadastro de Produtos</h4>
 <ol>
   <li>O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.</li>
+  <li>Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.</li>
 </ol>
-<p>- O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.</p>
-<p>- Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.</p>
 <br>
 <h4>Cadastro de Clientes</h4>
 <p>- Deve ser possível registrar os clientes da farmácia, com informações como:</p>
