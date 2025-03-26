@@ -56,6 +56,9 @@ atendimento.</p>
 <h3>1. Requisitos Funcionais</h3>
 <br>
 <h4>Cadastro de Produtos</h4>
+<ol>
+  <li>O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.</li>
+</ol>
 <p>- O sistema deve permitir que novos produtos e medicamentos sejam cadastrados.</p>
 <p>- Cada produto deve ter informações como nome, fabricante, lote, validade, quantidade e preço.</p>
 <br>
