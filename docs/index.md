@@ -251,6 +251,9 @@ atendimento.</p>
   </diagram>
 </mxfile>
 
+![diagrama](https://github.com/user-attachments/assets/27685339-917f-47cb-9755-daf5f8543de9)
+
+
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
