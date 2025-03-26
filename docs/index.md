@@ -79,48 +79,66 @@ atendimento.</p>
 </ul>
 <br>
 <h4>Controle de Estoque</h4>
-<p>- Sempre que um produto for vendido, o sistema deve diminuir a quantidade disponível.</p>
-<p>- Caso o estoque de um produto esteja baixo, o sistema precisa avisar.</p>
-<p>- O administrador deve conseguir visualizar os produtos disponíveis e seus status.</p>
+<ul>
+  <li>Sempre que um produto for vendido, o sistema deve diminuir a quantidade disponível.</li>
+  <li>Caso o estoque de um produto esteja baixo, o sistema precisa avisar.</li>
+  <li>O administrador deve conseguir visualizar os produtos disponíveis e seus status.</li>
+</ul>
 <br>
 <h4>Relatórios</h4>
-<p>- O sistema deve gerar relatórios para ajudar na gestão da farmácia, como:</p>
-<p>- - Vendas feitas no dia, na semana e no mês.</p>
-<p>- - Lista dos produtos mais vendidos.</p>
-<p>- - Clientes que compram com mais frequência.</p>
+<h6>O sistema deve gerar relatórios para ajudar na gestão da farmácia, como:</h6>
+<ul>
+  <li>Vendas feitas no dia, na semana e no mês.</li>
+  <li>Lista dos produtos mais vendidos.</li>
+  <li>Clientes que compram com mais frequência.</li>
+</ul>
 <br>
 <h4>Acesso ao Sistema</h4>
-<p>- O sistema deve ter login para garantir que só pessoas autorizadas possam usá-lo.</p>
-<p>- Deve haver dois tipos de usuários:</p>
-<p>- - Atendentes: podem fazer vendas e consultar produtos.</p>
-<p>- - Administradores: podem cadastrar produtos, ver relatórios e gerenciar estoque.</p>
+<h6>O sistema deve ter login para garantir que só pessoas autorizadas possam usá-lo.</h6>
+<h6>Deve haver dois tipos de usuários:</h6>
+<ul>
+  <li>Atendentes: podem fazer vendas e consultar produtos.</li>
+  <li>Administradores: podem cadastrar produtos, ver relatórios e gerenciar estoque.</li>
+</ul>
 <br>
 <h3>2. Requisitos Não-Funcionais</h3>
 <br>
 <h4>Fácil de Usar</h4>
-<p>- A interface deve ser simples e intuitiva, para que qualquer pessoa consiga usar sem dificuldades.</p>
-<p>- Deve funcionar bem tanto no computador quanto no celular.</p>
+<ul>
+  <li>A interface deve ser simples e intuitiva, para que qualquer pessoa consiga usar sem dificuldades.</li>
+  <li>Deve funcionar bem tanto no computador quanto no celular.</li>
+</ul>
 <br>
 <h4>Segurança</h4>
-<p>- Os dados dos clientes e vendas devem ser protegidos.</p>
-<p>- Apenas usuários com login e senha devem ter acesso ao sistema.</p>
-<p>- Atendentes e administradores terão permissões diferentes para evitar alterações indevidas.</p>
+<ul>
+  <li>Os dados dos clientes e vendas devem ser protegidos.</li>
+  <li>Apenas usuários com login e senha devem ter acesso ao sistema.</li>
+  <li>Atendentes e administradores terão permissões diferentes para evitar alterações indevidas.</li>
+</ul>
 <br>
 <h4>Rápido e Eficiente</h4>
-<p>- O sistema deve responder rápido às buscas e consultas, sem travar.</p>
-<p>- As vendas e atualizações de estoque devem acontecer na hora, sem atrasos.</p>
+<ul>
+  <li>O sistema deve responder rápido às buscas e consultas, sem travar.</li>
+  <li>As vendas e atualizações de estoque devem acontecer na hora, sem atrasos.</li>
+</ul>
 <br>
 <h4>Acessível para Todos</h4>
-<p>- O sistema deve funcionar bem em diferentes dispositivos e tamanhos de tela.</p>
-<p>- Deve seguir padrões básicos de acessibilidade para que qualquer pessoa possa utilizá-lo.</p>
+<ul>
+  <li>O sistema deve funcionar bem em diferentes dispositivos e tamanhos de tela.</li>
+  <li>Deve seguir padrões básicos de acessibilidade para que qualquer pessoa possa utilizá-lo.</li>
+</ul>
 <br>
 <h4>Preparado para Crescer</h4>
-<p>- O sistema deve ser capaz de armazenar mais produtos e clientes conforme a farmácia cresce.</p>
-<p>- No futuro, deve permitir novas funções, como vendas online.</p>
+<ul>
+  <li>O sistema deve ser capaz de armazenar mais produtos e clientes conforme a farmácia cresce.</li>
+  <li>No futuro, deve permitir novas funções, como vendas online.</li>
+</ul>
 <br>
 <h4>Confiável e Seguro</h4>
-<p>- O sistema precisa estar disponível sempre que for necessário, sem falhas.</p>
-<p>- Deve ter um sistema de backup automático para evitar perda de informações importantes.</p>
+<ul>
+  <li>O sistema precisa estar disponível sempre que for necessário, sem falhas.</li>
+  <li>Deve ter um sistema de backup automático para evitar perda de informações importantes.</li>
+</ul>
 
 # Diagrama de Atividades
 
