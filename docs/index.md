@@ -71,10 +71,12 @@ atendimento.</p>
 </ul>
 <br>
 <h4>Vendas</h4>
-<p>- O atendente precisa conseguir pesquisar se o medicamento está disponível no estoque.</p>
-<p>- O sistema deve permitir registrar uma venda, vinculando-a ao cliente.</p>
-<p>- Assim que a venda for finalizada, o sistema deve gerar um cupom fiscal.</p>
-<p>- O estoque precisa ser atualizado automaticamente.</p>
+<ul>
+  <li>O atendente precisa conseguir pesquisar se o medicamento está disponível no estoque.</li>
+  <li>O sistema deve permitir registrar uma venda, vinculando-a ao cliente.</li>
+  <li>Assim que a venda for finalizada, o sistema deve gerar um cupom fiscal.</li>
+  <li>O estoque precisa ser atualizado automaticamente.</li>
+</ul>
 <br>
 <h4>Controle de Estoque</h4>
 <p>- Sempre que um produto for vendido, o sistema deve diminuir a quantidade disponível.</p>
