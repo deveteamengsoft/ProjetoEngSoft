@@ -62,11 +62,13 @@ atendimento.</p>
 </ul>
 <br>
 <h4>Cadastro de Clientes</h4>
-<p>- Deve ser possível registrar os clientes da farmácia, com informações como:</p>
-<p>- - Nome</p>
-<p>- - CPF</p>
-<p>- - Telefone</p>
-<p>- - Histórico de compras</p>
+<h6>Deve ser possível registrar os clientes da farmácia, com informações como:</h6>
+<ul>
+  <li>Nome</li>
+  <li>CPF</li>
+  <li>Telefone</li>
+  <li>Histórico de compras</li>
+</ul>
 <br>
 <h4>Vendas</h4>
 <p>- O atendente precisa conseguir pesquisar se o medicamento está disponível no estoque.</p>
