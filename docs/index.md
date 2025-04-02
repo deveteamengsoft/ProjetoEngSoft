@@ -146,7 +146,7 @@ atendimento.</p>
 
 # Diagrama de Casos de Uso
 
-![Diagrama de caso de uso](https://github.com/user-attachments/assets/ec586635-1951-48dd-a874-5a70a99fd7ca)
+![Diagrama de caso de uso drawio](https://github.com/user-attachments/assets/c337991a-fbf4-4d14-93f4-13d3d985e3bc)
 
 # Descrição dos Casos de Uso
 
