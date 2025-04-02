@@ -150,7 +150,7 @@ atendimento.</p>
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+[*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*](https://gitlab.com/pedro.oficiati/farmacia-vida-saudavel/-/blob/main/Projeto.md?ref_type=heads)
 
 # Diagrama de Sequência
 
