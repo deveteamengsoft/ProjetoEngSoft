@@ -154,7 +154,7 @@ atendimento.</p>
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![Diagrama sem nome drawio](https://github.com/user-attachments/assets/944a3a28-af9a-4beb-a089-33b2830deec5)
 
 # Diagrama de Classes
 
