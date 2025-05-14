@@ -158,7 +158,7 @@ atendimento.</p>
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+https://gitlab.com/pedro.oficiati/farmacia-vida-saudavel/-/blob/main/diagramaDeClasses.md
 
 # Diagrama de Estados
 
