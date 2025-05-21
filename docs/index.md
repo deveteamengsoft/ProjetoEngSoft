@@ -166,7 +166,7 @@ https://gitlab.com/pedro.oficiati/farmacia-vida-saudavel/-/blob/main/diagramaDeC
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![Diagrama sem nome drawio (1)](https://github.com/user-attachments/assets/cd90d848-65ca-4f97-b121-5d54a982bff2)
 
 # Referências
 
