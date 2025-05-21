@@ -162,7 +162,7 @@ https://gitlab.com/pedro.oficiati/farmacia-vida-saudavel/-/blob/main/diagramaDeC
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama sem nome drawio](https://github.com/user-attachments/assets/26ead963-e1c2-46f7-9844-96749ced4a7b)
 
 # Diagrama de Implantação
 
